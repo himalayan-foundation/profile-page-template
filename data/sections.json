@@ -1,0 +1,10 @@
+[
+  { "id": "about",        "title": "About",           "file": "profile.json",      "enabled": true  },
+  { "id": "research",     "title": "Focus Areas",     "file": "research.json",     "enabled": true  },
+  { "id": "news",         "title": "News",             "file": "news.json",         "enabled": true  },
+  { "id": "publications", "title": "Publications",     "file": "publications.json", "enabled": true  },
+  { "id": "awards",       "title": "Awards",           "file": "awards.json",       "enabled": true  },
+  { "id": "students",     "title": "Team",             "file": "students.json",     "enabled": true  },
+  { "id": "teaching",     "title": "Programs",         "file": "teaching.json",     "enabled": true  },
+  { "id": "contact",      "title": "Contact",          "file": "profile.json",      "enabled": true  }
+]

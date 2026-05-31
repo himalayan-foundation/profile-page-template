@@ -1,0 +1,31 @@
+[
+  {
+    "title": "AI for Mountain Ecosystem Monitoring at Scale",
+    "venue": "International Mountain Conference 2026",
+    "location": "Innsbruck, Austria",
+    "date": "September 2026",
+    "type": "Keynote",
+    "link": "https://mountainconference.org/2026/keynotes"
+  },
+  {
+    "title": "Glacial Lake Outburst Floods: From Risk Modelling to Policy",
+    "venue": "UN Climate Adaptation Forum",
+    "location": "Geneva, Switzerland",
+    "date": "March 2026",
+    "type": "Panel"
+  },
+  {
+    "title": "Community-Based Conservation in Himalayan Landscapes",
+    "venue": "IUCN World Conservation Congress",
+    "location": "Abu Dhabi, UAE",
+    "date": "October 2025",
+    "type": "Invited Talk"
+  },
+  {
+    "title": "Bridging Traditional and Scientific Knowledge",
+    "venue": "Nature Podcast",
+    "date": "June 2025",
+    "type": "Podcast Interview",
+    "link": "https://nature.com/podcasts/tek-mountains"
+  }
+]

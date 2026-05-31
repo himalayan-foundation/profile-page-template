@@ -1,0 +1,18 @@
+[
+  {
+    "category": "Field Research",
+    "items": ["High-Altitude Fieldwork", "Vegetation Surveys", "Camera Trap Deployment", "GPS Mapping", "Soil Sampling"]
+  },
+  {
+    "category": "Data & Analysis",
+    "items": ["Python", "R", "GIS / QGIS", "Remote Sensing", "Statistical Modelling", "Machine Learning"]
+  },
+  {
+    "category": "Climate Science",
+    "items": ["Glaciology", "Hydrology", "Climate Modelling", "Carbon Accounting"]
+  },
+  {
+    "category": "Programme & Stakeholder",
+    "items": ["Grant Writing", "Community Engagement", "Policy Briefing", "Multi-Institution Coordination"]
+  }
+]

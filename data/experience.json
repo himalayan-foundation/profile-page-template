@@ -1,0 +1,38 @@
+[
+  {
+    "role": "Senior Research Coordinator",
+    "company": "Himalayan Foundation",
+    "company_url": "https://himalayanfoundation.org",
+    "location": "Kathmandu, Nepal",
+    "start": "2018",
+    "end": "Present",
+    "description": "Lead multi-institution research initiatives on Himalayan ecosystems, glaciology, and AI-driven environmental monitoring.",
+    "highlights": [
+      "Established three permanent monitoring stations above 4,000m altitude",
+      "Authored 15+ peer-reviewed publications in Nature, Global Change Biology, and The Cryosphere",
+      "Secured $2.4M in research funding from ICIMOD, SDC, and private foundations",
+      "Built and mentored a 12-person interdisciplinary research team"
+    ]
+  },
+  {
+    "role": "Research Associate",
+    "company": "ICIMOD",
+    "company_url": "https://www.icimod.org",
+    "location": "Kathmandu, Nepal",
+    "start": "2014",
+    "end": "2018",
+    "description": "Contributed to regional climate adaptation programmes across the Hindu Kush–Himalaya region.",
+    "highlights": [
+      "Co-authored ICIMOD's 2017 regional climate change assessment",
+      "Led field expeditions in Bhutan, Nepal, and Northern India"
+    ]
+  },
+  {
+    "role": "Field Researcher",
+    "company": "Nepal Mountain Academy",
+    "location": "Pokhara, Nepal",
+    "period": "2010 – 2014",
+    "description": "Conducted high-altitude botanical surveys and biodiversity inventories.",
+    "highlights": []
+  }
+]

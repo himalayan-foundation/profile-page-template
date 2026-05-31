@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Alpine Ecosystem Monitoring",
+    "description": "Long-term ecological monitoring of vegetation zones, soil carbon stocks, and biodiversity indicators across elevational gradients from 2,500m to 5,500m. Tracks climate-driven phenological shifts using a network of permanent plots and automated sensor stations.",
+    "icon": "lab"
+  },
+  {
+    "title": "Glaciology & Water Security",
+    "description": "Field-based and remote-sensing research on Himalayan glacier mass balance, glacial lake formation, and downstream water availability. Develops GLOF risk models used by national disaster management authorities in Nepal and Bhutan.",
+    "icon": "chip"
+  },
+  {
+    "title": "AI-Driven Environmental Monitoring",
+    "description": "Developing agentic AI pipelines for processing satellite imagery, acoustic biodiversity data, and meteorological sensor streams at scale. Applies large language model orchestration to automate environmental change detection and reporting workflows.",
+    "icon": "brain"
+  },
+  {
+    "title": "Traditional Ecological Knowledge",
+    "description": "Community-participatory documentation of indigenous land management practices, medicinal plant knowledge, and oral ecological histories among mountain communities. Bridges scientific and traditional knowledge systems for conservation planning.",
+    "icon": "profile"
+  },
+  {
+    "title": "Climate Adaptation & Policy",
+    "description": "Translating field research into evidence-based policy recommendations for mountain communities facing climate change. Collaborates with national governments, ICIMOD, and international bodies to inform adaptation frameworks and protected area management.",
+    "icon": "code"
+  },
+  {
+    "title": "High-Altitude Biodiversity",
+    "description": "Systematic surveys of endemic flora and fauna in under-studied high-altitude zones, including snow leopard habitat assessment, bird species range shifts, and rare plant population dynamics. Contributes data to IUCN Red List assessments.",
+    "icon": "cpu"
+  }
+]

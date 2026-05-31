@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Langtang High-Altitude Monitoring Network",
+    "year": "2024",
+    "role": "Project Lead",
+    "description": "Designed and deployed three permanent automated environmental monitoring stations between 4,200m and 5,200m, producing continuous data streams on temperature, humidity, soil moisture, and wildlife presence.",
+    "tags": ["Field Research", "IoT Sensors", "Long-Term Monitoring"],
+    "link": "https://himalayanfoundation.org/projects/langtang-network",
+    "link_label": "Project page →"
+  },
+  {
+    "title": "Glacial Lake AI Risk Classifier",
+    "year": "2023",
+    "role": "Co-Developer",
+    "description": "Machine learning system that classifies glacial lakes by outburst flood risk using satellite imagery, terrain data, and historical records. Now used by Nepal's National Disaster Risk Authority.",
+    "tags": ["Machine Learning", "Remote Sensing", "Disaster Risk"],
+    "link": "https://github.com/himalayan-foundation/glof-classifier",
+    "link_label": "GitHub →"
+  },
+  {
+    "title": "Community Camera Trap Initiative",
+    "year": "2022",
+    "role": "Programme Coordinator",
+    "description": "Participatory wildlife monitoring programme training local communities to operate camera traps. Generated the largest snow leopard image dataset in Nepal.",
+    "tags": ["Community Research", "Wildlife", "Conservation"],
+    "link": "https://himalayanfoundation.org/projects/camera-trap"
+  },
+  {
+    "title": "TEK Documentation Atlas",
+    "year": "2021",
+    "role": "Lead Researcher",
+    "description": "Interactive online atlas documenting traditional ecological knowledge of medicinal plants across 14 mountain communities in Nepal and Bhutan.",
+    "tags": ["TEK", "Ethnobotany", "Open Data"]
+  }
+]
