@@ -1,12 +1,52 @@
 [
-  { "year": 2026, "title": "Best Conservation Research Award",        "org": "Global Mountain Research Consortium" },
-  { "year": 2025, "title": "ICIMOD Innovation Grant",                 "org": "International Centre for Integrated Mountain Development" },
-  { "year": 2024, "title": "Nepal National Conservation Award",       "org": "Government of Nepal, Ministry of Forests and Environment" },
-  { "year": 2023, "title": "Mountain Research Excellence Prize",      "org": "Alpine Club International" },
-  { "year": 2022, "title": "Community Partnership Award",             "org": "UN Environment Programme" },
-  { "year": 2021, "title": "Best Field Research Publication",         "org": "Journal of Mountain Science" },
-  { "year": 2020, "title": "Climate Adaptation Research Grant",       "org": "Swiss Agency for Development and Cooperation" },
-  { "year": 2018, "title": "Biodiversity Conservation Recognition",   "org": "WWF Nepal" },
-  { "year": 2015, "title": "ISO Environmental Research Certification","org": "Global Mountain Research Consortium" },
-  { "year": 2012, "title": "Inaugural High-Altitude Research Grant",  "org": "Himalayan Foundation Founding Board" }
+  {
+    "year": 2026,
+    "title": "Best Conservation Research Award",
+    "org": "Global Mountain Research Consortium"
+  },
+  {
+    "year": 2025,
+    "title": "ICIMOD Innovation Grant",
+    "org": "International Centre for Integrated Mountain Development"
+  },
+  {
+    "year": 2024,
+    "title": "National Conservation Award",
+    "org": "Ministry of Forests and Environment"
+  },
+  {
+    "year": 2023,
+    "title": "Mountain Research Excellence Prize",
+    "org": "Alpine Club International"
+  },
+  {
+    "year": 2022,
+    "title": "Community Partnership Award",
+    "org": "UN Environment Programme"
+  },
+  {
+    "year": 2021,
+    "title": "Best Field Research Publication",
+    "org": "Journal of Mountain Science"
+  },
+  {
+    "year": 2020,
+    "title": "Climate Adaptation Research Grant",
+    "org": "Swiss Agency for Development and Cooperation"
+  },
+  {
+    "year": 2018,
+    "title": "Biodiversity Conservation Recognition",
+    "org": "WWF"
+  },
+  {
+    "year": 2015,
+    "title": "ISO Environmental Research Certification",
+    "org": "Global Mountain Research Consortium"
+  },
+  {
+    "year": 2012,
+    "title": "Inaugural High-Altitude Research Grant",
+    "org": "Foundation Founding Board"
+  }
 ]

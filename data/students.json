@@ -1,19 +1,27 @@
 {
   "collaborators": [
-    { "name": "ICIMOD",                       "role": "Strategic Research Partner" },
-    { "name": "WWF Nepal",                    "role": "Conservation Partner"       },
-    { "name": "Global Mountain Consortium",   "role": "Academic Partner"           },
-    { "name": "Nepal Dept. of Hydrology",     "role": "Government Partner"         }
+    { "name": "ICIMOD", "role": "Strategic Research Partner" },
+    { "name": "WWF", "role": "Conservation Partner" },
+    { "name": "Global Mountain Consortium", "role": "Academic Partner" },
+    { "name": "Dept. of Hydrology", "role": "Government Partner" }
   ],
   "current": [
-    { "name": "Pemba Sherpa",   "degree": "Lead Researcher, Glaciology",     "photo": "" },
-    { "name": "Anita Gurung",   "degree": "Senior Ecologist",                "photo": "" },
-    { "name": "Rajesh Thapa",   "degree": "Data Science & Remote Sensing",   "photo": "" },
-    { "name": "Dawa Lama",      "degree": "Field Research Coordinator",      "photo": "" },
-    { "name": "Sita Rai",       "degree": "Botanist & Biodiversity Lead",    "photo": "" }
+    { "name": "PS", "degree": "Lead Researcher, Glaciology", "photo": "" },
+    { "name": "AG", "degree": "Senior Ecologist", "photo": "" },
+    { "name": "RT", "degree": "Data Science & Remote Sensing", "photo": "" },
+    { "name": "DL", "degree": "Field Research Coordinator", "photo": "" },
+    { "name": "SR", "degree": "Botanist & Biodiversity Lead", "photo": "" }
   ],
   "alumni": [
-    { "name": "Karma Wangchuk", "degree": "Former Field Researcher",  "current_position": "WWF Bhutan"     },
-    { "name": "Tenzin Dorje",   "degree": "Former Research Associate","current_position": "ICIMOD Kathmandu" }
+    {
+      "name": "KW",
+      "degree": "Former Field Researcher",
+      "current_position": "WWF"
+    },
+    {
+      "name": "TD",
+      "degree": "Former Research Associate",
+      "current_position": "ICIMOD"
+    }
   ]
 }

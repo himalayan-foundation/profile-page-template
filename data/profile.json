@@ -1,26 +1,41 @@
 {
-  "name": "Himalayan Foundation Research",
+  "name": "Foundation Research",
   "title": "Research & Conservation Initiative",
   "department": "Environmental Science & Mountain Ecology",
   "affiliation": "Affiliated with Global Mountain Research Consortium",
-  "university": "Himalayan Foundation",
-  "eyebrow": "Himalayan Foundation · Kathmandu, Nepal",
+  "university": "Foundation",
+  "eyebrow": "Foundation",
   "photo": "assets/img/profile.jpg",
-  "email": "research@himalayanfoundation.org",
-  "phone": "+977-1-000-0000",
-  "location": "Kathmandu, Nepal",
-  "website": "https://himalayanfoundation.org",
-  "website_label": "himalayanfoundation.org",
-  "address": "Himalayan Foundation Research Centre\nThamel, Kathmandu 44600\nNepal",
+  "email": "research@foundation.org",
+  "phone": "000-000-0000",
+  "location": "Global",
+  "website": "https://foundation.org",
+  "website_label": "foundation.org",
+  "address": "Foundation Research Centre",
 
   "links": [
-    { "label": "Research Portal",   "url": "https://himalayanfoundation.org/research", "icon": "lab",     "primary": true  },
-    { "label": "Publications",      "url": "https://himalayanfoundation.org/papers",   "icon": "scholar", "primary": false },
-    { "label": "Foundation Website","url": "https://himalayanfoundation.org",          "icon": "globe",   "primary": false }
+    {
+      "label": "Research Portal",
+      "url": "https://foundation.org/research",
+      "icon": "lab",
+      "primary": true
+    },
+    {
+      "label": "Publications",
+      "url": "https://foundation.org/papers",
+      "icon": "scholar",
+      "primary": false
+    },
+    {
+      "label": "Foundation Website",
+      "url": "https://foundation.org",
+      "icon": "globe",
+      "primary": false
+    }
   ],
 
   "bio": [
-    "The Himalayan Foundation Research Initiative is a multidisciplinary programme dedicated to the scientific study and conservation of Himalayan ecosystems, mountain communities, and high-altitude biodiversity. Operating across Nepal, Bhutan, and the Indian Himalayan region, our teams combine field ecology, remote sensing, and community participatory research to generate actionable knowledge for policy and conservation practice.",
+    "The  Foundation Research Initiative is a multidisciplinary programme dedicated to the scientific study and conservation of  ecosystems, mountain communities, and high-altitude biodiversity. Operating across himalayan region, our teams combine field ecology, remote sensing, and community participatory research to generate actionable knowledge for policy and conservation practice.",
     "Founded in 2010, the initiative has conducted over 40 field expeditions, established three long-term ecological monitoring stations above 4,000 metres, and partnered with local communities to document traditional ecological knowledge at risk of being lost. Our interdisciplinary teams include ecologists, glaciologists, social scientists, and data scientists working in close collaboration.",
     "Current research priorities include climate-driven shifts in alpine vegetation zones, glacial lake outburst flood (GLOF) risk modelling, and the intersection of agentic AI systems with large-scale environmental monitoring. We are actively seeking research partners, field collaborators, and funding organisations aligned with high-altitude ecosystem science."
   ],
@@ -29,20 +44,20 @@
     {
       "degree": "Est.",
       "field": "Research Initiative Founded",
-      "institution": "Himalayan Foundation",
-      "location": "Kathmandu, Nepal",
+      "institution": "Foundation",
+      "location": "Global",
       "year": "2010"
     },
     {
       "degree": "ISO",
       "field": "Environmental Research Standards Certified",
       "institution": "Global Mountain Research Consortium",
-      "location": "Geneva, Switzerland",
+      "location": "Global",
       "year": "2015"
     }
   ],
 
-  "contact_intro": "The Himalayan Foundation Research Initiative welcomes inquiries from field researchers, conservation organisations, funding bodies, and academic institutions interested in mountain ecosystem science and high-altitude community research.",
+  "contact_intro": "The Foundation Research Initiative welcomes inquiries from field researchers, conservation organisations, funding bodies, and academic institutions interested in mountain ecosystem science and high-altitude community research.",
 
   "collaboration_areas": [
     "Academic institutions and universities conducting high-altitude ecology or glaciology research",
